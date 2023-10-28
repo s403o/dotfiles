@@ -1,0 +1,11 @@
+/* Add your custom extension styling here */
+
+.cn-icon { margin: 0.5em 1.5em 0.5em 1.5em; }
+
+.cn-text { margin: 0.2em; font-size: 1.5em; }
+
+.cn:checked { border: 0.1em solid #999999; border-radius: 0.5em; background: #414040; }
+
+.cn:hover { background: #404040; }
+
+.cn-input-active { margin: 0.2em; font-size: 1.5em; border: 1px solid #FF8989; }
