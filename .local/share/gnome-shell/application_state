@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="org.gnome.Shell.PortalHelper.desktop" score="0" last-seen="1697958748"/>
+    <application id="kitty.desktop" score="725" last-seen="1698517502"/>
+    <application id="org.gnome.tweaks.desktop" score="2" last-seen="1698517597"/>
+    <application id="brave-browser.desktop" score="4165.25" last-seen="1697985842"/>
+    <application id="org.gnome.Software.desktop" score="134.5" last-seen="1697951265"/>
+    <application id="snap-store_ubuntu-software.desktop" score="21" last-seen="1698516683"/>
+    <application id="org.gnome.Evolution-alarm-notify.desktop" score="3.953125" last-seen="1698516303"/>
+    <application id="app.drey.Warp.desktop" score="5" last-seen="1698226695"/>
+    <application id="org.gnome.gedit.desktop" score="63.859375" last-seen="1698518409"/>
+    <application id="apport-gtk.desktop" score="1" last-seen="1697970750"/>
+    <application id="libreoffice-calc.desktop" score="0" last-seen="1698159550"/>
+    <application id="slack.desktop" score="12027.453125" last-seen="1698333891"/>
+    <application id="org.gnome.eog.desktop" score="1.5" last-seen="1698221887"/>
+    <application id="notion-app-enhanced.desktop" score="348" last-seen="1698135264"/>
+    <application id="authy_authy.desktop" score="68.625" last-seen="1698224937"/>
+    <application id="update-manager.desktop" score="4.5" last-seen="1697951599"/>
+    <application id="org.gnome.Nautilus.desktop" score="243.09375" last-seen="1698518408"/>
+    <application id="gnome-control-center.desktop" score="485.625" last-seen="1697987993"/>
+    <application id="firefox_firefox.desktop" score="18879.6875" last-seen="1698517223"/>
+    <application id="org.gnome.Terminal.desktop" score="54.25" last-seen="1697962055"/>
+    <application id="urban-terror_urban-terror.desktop" score="0" last-seen="1698325798"/>
+    <application id="qterminal.desktop" score="6432.796875" last-seen="1698518335"/>
+    <application id="geany.desktop" score="304" last-seen="1697985730"/>
+    <application id="code.desktop" score="5141.5625" last-seen="1698518356"/>
+  </context>
+</application-state>
