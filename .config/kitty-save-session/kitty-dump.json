@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "is_focused": true,
+    "platform_window_id": 100663311,
+    "tabs": [
+      {
+        "active_window_history": [
+          1
+        ],
+        "id": 1,
+        "is_focused": false,
+        "layout": "splits",
+        "layout_state": {
+          "pairs": {
+            "bias": 0.5,
+            "horizontal": true,
+            "one": 1,
+            "two": null
+          }
+        },
+        "title": "./saveKitty.sh",
+        "windows": [
+          {
+            "cmdline": [
+              "zsh"
+            ],
+            "columns": 213,
+            "cwd": "/home/semo/scripts",
+            "env": {
+              "KITTY_WINDOW_ID": "1",
+              "PWD": "/home/semo"
+            },
+            "foreground_processes": [
+              {
+                "cmdline": [
+                  "/bin/bash",
+                  "./saveKitty.sh"
+                ],
+                "cwd": "/home/semo/scripts",
+                "pid": 535126
+              }
+            ],
+            "id": 1,
+            "is_focused": false,
+            "is_self": false,
+            "lines": 48,
+            "pid": 533983,
+            "title": "./saveKitty.sh"
+          }
+        ]
+      },
+      {
+        "active_window_history": [
+          2
+        ],
+        "id": 2,
+        "is_focused": true,
+        "layout": "splits",
+        "layout_state": {
+          "pairs": {
+            "bias": 0.5,
+            "horizontal": true,
+            "one": 2,
+            "two": null
+          }
+        },
+        "title": "./saveKitty.sh",
+        "windows": [
+          {
+            "cmdline": [
+              "zsh"
+            ],
+            "columns": 213,
+            "cwd": "/home/semo/scripts",
+            "env": {
+              "KITTY_WINDOW_ID": "2",
+              "PWD": "/"
+            },
+            "foreground_processes": [
+              {
+                "cmdline": [
+                  "/bin/bash",
+                  "./saveKitty.sh"
+                ],
+                "cwd": "/home/semo/scripts",
+                "pid": 535641
+              },
+              {
+                "cmdline": [
+                  "kitty",
+                  "@",
+                  "ls"
+                ],
+                "cwd": "/home/semo/scripts",
+                "pid": 535652
+              }
+            ],
+            "id": 2,
+            "is_focused": true,
+            "is_self": true,
+            "lines": 48,
+            "pid": 534109,
+            "title": "./saveKitty.sh"
+          }
+        ]
+      },
+      {
+        "active_window_history": [
+          3
+        ],
+        "id": 3,
+        "is_focused": false,
+        "layout": "splits",
+        "layout_state": {
+          "pairs": {
+            "bias": 0.5,
+            "horizontal": true,
+            "one": 3,
+            "two": null
+          }
+        },
+        "title": "semo@s403o:/",
+        "windows": [
+          {
+            "cmdline": [
+              "zsh"
+            ],
+            "columns": 213,
+            "cwd": "/",
+            "env": {
+              "KITTY_WINDOW_ID": "3",
+              "PWD": "/"
+            },
+            "foreground_processes": [
+              {
+                "cmdline": [
+                  "zsh"
+                ],
+                "cwd": "/",
+                "pid": 534234
+              }
+            ],
+            "id": 3,
+            "is_focused": false,
+            "is_self": false,
+            "lines": 48,
+            "pid": 534234,
+            "title": "semo@s403o:/"
+          }
+        ]
+      },
+      {
+        "active_window_history": [
+          4
+        ],
+        "id": 4,
+        "is_focused": false,
+        "layout": "splits",
+        "layout_state": {
+          "pairs": {
+            "bias": 0.5,
+            "horizontal": true,
+            "one": 4,
+            "two": null
+          }
+        },
+        "title": "semo@s403o:/",
+        "windows": [
+          {
+            "cmdline": [
+              "zsh"
+            ],
+            "columns": 213,
+            "cwd": "/",
+            "env": {
+              "KITTY_WINDOW_ID": "4",
+              "PWD": "/"
+            },
+            "foreground_processes": [
+              {
+                "cmdline": [
+                  "zsh"
+                ],
+                "cwd": "/",
+                "pid": 534358
+              }
+            ],
+            "id": 4,
+            "is_focused": false,
+            "is_self": false,
+            "lines": 48,
+            "pid": 534358,
+            "title": "semo@s403o:/"
+          }
+        ]
+      }
+    ],
+    "wm_class": "kitty",
+    "wm_name": "kitty"
+  }
+]
