@@ -1,0 +1,50 @@
+
+
+new_tab 1
+layout splits
+cd /home/semo/Downloads/kitty-save-session-main
+title kitty @ ls > kitty-dump.json
+launch --env KITTY_WINDOW_ID=1 --env PWD=/home/semo /bin/bash
+focus
+
+
+new_tab 2
+layout splits
+cd /home/semo/bitbucket
+title semo@s403o:~/bitbucket
+launch --env KITTY_WINDOW_ID=2 --env PWD=/ zsh
+
+
+new_tab 3
+layout splits
+cd /home/semo
+title semo@s403o:~
+launch --env KITTY_WINDOW_ID=3 --env PWD=/ zsh
+
+
+new_tab 4
+layout splits
+cd /home/semo
+title semo@s403o:~
+launch --env KITTY_WINDOW_ID=4 --env PWD=/ zsh
+
+
+new_tab 5
+layout splits
+cd /home/semo
+title semo@s403o:~
+launch --env KITTY_WINDOW_ID=5 --env PWD=/ zsh
+
+
+new_tab 6
+layout splits
+cd /home/semo
+title semo@s403o:~
+launch --env KITTY_WINDOW_ID=6 --env PWD=/ zsh
+
+
+new_tab 7
+layout splits
+cd /home/semo
+title semo@s403o:~
+launch --env KITTY_WINDOW_ID=7 --env PWD=/ zsh
